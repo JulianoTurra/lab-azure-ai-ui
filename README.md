@@ -52,13 +52,13 @@ original/
 
 ### Documentos Originais
 
-Aqui estão algumas representações visuais dos documentos originais:
+Exemplo de uma representação visual de documentos originais:
 
 * ![Original](original/original-review.png)
 
 ### Resultados da Indexação e Análise
 
-Abaixo, exemplos de visualizações geradas durante o processo de indexação e análise:
+Abaixo, exemplo de visualização gerada durante o processo de indexação e análise:
 
 | Análise de Sentimento                              |
 | :------------------------------------------------- | 
