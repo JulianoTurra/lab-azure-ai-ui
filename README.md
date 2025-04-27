@@ -62,7 +62,7 @@ Abaixo, exemplos de visualizações geradas durante o processo de indexação e 
 
 | Análise de Sentimento                              |
 | :------------------------------------------------- | 
-| ![Análise de Sentimento](index/index-revieww.png)
+| ![Análise de Sentimento](index/index-review.png)
 
 ## Contato
 Se tiver dúvidas ou sugestões, entre em contato:
